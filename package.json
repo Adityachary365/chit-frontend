@@ -4,10 +4,10 @@
   "description": "��#\u0000 \u0000c\u0000h\u0000i\u0000t\u0000-\u0000f\u0000r\u0000o\u0000n\u0000t\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-},
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Adityachary365/chit-frontend.git"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Adityachary365/chit-frontend/issues"
   },
-  "homepage": "https://github.com/Adityachary365/chit-frontend#readme"
+  "homepage": "https://github.com/Adityachary365/chit-frontend#readme",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
 }
